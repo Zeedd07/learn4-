@@ -6,3 +6,6 @@ Java can be used across many different platforms, including Windows, Linux, and 
 
 Easy to read
 Java is a high-level language that's easy to understand.
+
+"Write once, run anywhere"
+With Java, developers can compile code that will run on any Java-compatible platform without needing to recompile it
